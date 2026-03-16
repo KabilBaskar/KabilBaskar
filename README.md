@@ -5,10 +5,10 @@
 
 ## 🚀 Featured Project
 
-### 🔹 [Temple Management System](https://github.com/YOUR_USERNAME/TEMPLE-MANAGEMENT-SYSTEM)
+### 🔹 [Temple Management System](https://github.com/KabilBaskar/library_management)
 A system designed to streamline temple operations and management.  
-- Built with: Java, C, HTML, CSS, JavaScript  
-- Features: User registration, donation tracking, event scheduling  
+- **Built with:** Java, C, HTML, CSS, JavaScript  
+- **Features:** User registration, donation tracking, event scheduling  
 
 ---
 
@@ -37,9 +37,9 @@ A system designed to streamline temple operations and management.
 
 ## 📈 GitHub Dashboard (Auto‑Updating)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KabilBaskar&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KabilBaskar&layout=compact&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=KabilBaskar&theme=radical)
 
 ---
 
@@ -47,3 +47,10 @@ A system designed to streamline temple operations and management.
 - Expanding AI & Full Stack projects  
 - Building scalable applications  
 - Documenting and deploying creative solutions  
+
+---
+
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox)](https://YOUR-PORTFOLIO-LINK)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)  
