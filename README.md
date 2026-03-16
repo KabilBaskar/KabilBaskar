@@ -7,7 +7,7 @@
 
 ### 🔹 [Temple Management System](https://github.com/KabilBaskar/library_management)
 A system designed to streamline temple operations and management.  
-- **Built with:** Java, C, HTML, CSS, JavaScript  
+- **Built with:** HTML,CSS,ejs, 
 - **Features:** User registration, donation tracking, event scheduling  
 
 ---
