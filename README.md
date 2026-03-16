@@ -4,16 +4,14 @@
 ---
 
 ## 🚀 Featured Project
-
 ### 🔹 [Temple Management System](https://github.com/KabilBaskar/library_management)
 A system designed to streamline temple operations and management.  
-- **Built with:** HTML,CSS,ejs, 
+- **Built with:** Java, C, HTML, CSS, JavaScript  
 - **Features:** User registration, donation tracking, event scheduling  
 
 ---
 
 ## 🧩 Skill Matrix
-
 | Category      | Skills                                   |
 |---------------|------------------------------------------|
 | **Languages** | Java · C · HTML · CSS · JavaScript       |
@@ -23,7 +21,6 @@ A system designed to streamline temple operations and management.
 ---
 
 ## 🎨 Tech Stack Icons
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/> 
@@ -35,11 +32,12 @@ A system designed to streamline temple operations and management.
 
 ---
 
-## 📈 GitHub Dashboard (Auto‑Updating)
+## 📊 Live GitHub Dashboard
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KabilBaskar&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KabilBaskar&layout=compact&theme=radical)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=KabilBaskar&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=KabilBaskar&color=blue&style=flat-square)
 
 ---
 
