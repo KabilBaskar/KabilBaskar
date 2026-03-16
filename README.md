@@ -1,3 +1,8 @@
+# 👋 Hi, I'm **Kabil Baskar**
+*Crafting code that whispers poetry to machines.*
+
+---
+
 # 💫 About Me:
 🔭 I’m currently working on **Temple Management System**  
 👯 I’m looking to collaborate on **AI & Full Stack projects**  
