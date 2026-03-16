@@ -1,10 +1,9 @@
 # 👋 Hi, I'm **Kabil Baskar**
-*Crafting code that whispers poetry to machines.*
+*Turning ideas into scalable systems.*
 
 ---
 
 # 💫 About Me:
-🔭 I’m currently working on **Temple Management System**  
 👯 I’m looking to collaborate on **AI & Full Stack projects**  
 🤝 I’m looking for help with **scalable cloud applications**  
 🌱 I’m currently learning **Advanced Java, Cloud (AWS/GCP), React**  
